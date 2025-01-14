@@ -6,7 +6,7 @@
 
 main:
     - title: "Bio"
-    url: /bio/
+     url: /bio/
     
   - title: "Research"
     url: /research/
