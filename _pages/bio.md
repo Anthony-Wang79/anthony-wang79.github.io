@@ -11,51 +11,37 @@ redirect_from:
 
 
 
+Education
+------
+- Ph.D. in Economics (Elite Ph.D. Program), Fudan University, 2023-2027 (Expected)
+- B.A. in Economics, Fudan University, 2019-2023
+  - Graduation with the Highest Honors 
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Honors, Awards & Fellowships
+------
+- Distinguished Graduate of Shanghai, 2023
+- Outstanding Student, Fudan, 2019-2023
+- ShanZhen Initiative Scholarship, Fudan SOE, 2022
+- Maxwealth Fund Scholarship (First Class Scholarship), Fudan, 2022
+- Honorable Student & WuYingFan Scholarship, Fudan SOE, 2022
+- Finalist and Nominee for Outstanding Student Pacesetter (only 20 finalists), Fudan, 2021
+- Huawei Scholarship (First Class Scholarship), Fudan, 2021
+- Cathay Life Insurance Scholarship (First Prize), Fudan SOE, 2021
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Teaching Experience
+------
+* Fudan University
+  * Teaching Assistant: InsurTech (AI-core course) for Prof. Xian Xu, 2024-2025 Fall
+  * Teaching Assistant: InsurTech for Prof. Xian Xu, 2023-2024 Fall
+  
+Conference Presentations
+------
+- The 14th China International Conference on Insurance and Risk Management (CICIRM), Ningbo, China, 2024
+- The 6th Fudan-Ulm Symposium on Finance and Insurance, Shanghai, China, 2024
+- The 7th China Health Economics Forum (CHEF), Beijing, China, 2024
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Service and Leadership
+------
+* Ad hoc Reviewer for Global Finance Journal
+* Counselor for Outstanding Student Training Program at Fudan (Siyuan Project)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
