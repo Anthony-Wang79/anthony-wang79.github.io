@@ -16,7 +16,7 @@ Education
 ------
 - Ph.D. in Economics (Elite Ph.D. Program), Fudan University, 2023-2027 (Expected)
 - B.A. in Economics, Fudan University, 2019-2023
-  - Graduation with the Highest Honors 
+  - Graduation with the Highest Honor
 
 Honors, Awards & Fellowships
 ------
