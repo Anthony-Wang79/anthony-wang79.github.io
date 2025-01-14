@@ -16,4 +16,4 @@ Education
 
 Research
 ------
-1. The Impact of Public-Private Partnership Health Plans on Private Insurance. with [Hui Ding](https://dh-huiding.github.io/) and [Xian Xu](https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14221)
+1. The Impact of Public-Private Partnership Health Plans on Private Insurance. with [Hui Ding](https://dh-huiding.github.io/), and [Xian Xu](https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14221).
