@@ -9,6 +9,8 @@ redirect_from:
 
 I am a Ph.D. Candidate in the School of Economics, Fudan University. My current research interests lie at the intersection of Insurance, Health Economics, and Information Economics. 
 
+You can find my CV [here](../assets/CV.pdf).
+
 Education
 ------
 - Ph.D. in Economics (Elite Ph.D. Program), Fudan University, 2023-2027 (Expected)
