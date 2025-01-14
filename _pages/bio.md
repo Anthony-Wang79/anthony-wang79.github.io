@@ -48,6 +48,6 @@ Service and Leadership
 
 CV
 ------
-For a detailed version, please refer to my [CV](/assets/CV.pdf):
+For detailed information, please refer to my [CV](/assets/CV.pdf):
 <iframe src="/assets/CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
