@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in the School of Economics, Fudan University. My current research interests lie at the intersection of Insurance, Health Economics, and Information Economics. 
+I am a Ph.D. Candidate in the School of Economics, Fudan University. My current research interests lie at the intersection of Insurance, Health Economics, Information Economics, and Chinese Economy. 
 
 You can find my CV [here](../assets/CV.pdf).
 
