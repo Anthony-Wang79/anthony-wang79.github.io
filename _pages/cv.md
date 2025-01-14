@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-======
-Download here.
+
+You can find my CV [here](../assets/CV.pdf).
 
 Work experience
 ======
