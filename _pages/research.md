@@ -14,4 +14,3 @@ Working Papers
 Work in Progress
 ---
 - Persuading Insurance Customers via Livestreaming. with [Hui Ding](https://dh-huiding.github.io/), and [Xian Xu](https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14221).
-- Keep Calm and Carry On: Natural Disasters and Political Turnover in China. with [Xian Xu](https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14221), and [Song Yuan](http://www.song-yuan.net/).
