@@ -43,8 +43,8 @@ Conference Presentations
 
 Service and Leadership
 ------
-* Ad hoc Reviewer for Global Finance Journal
-* Counselor for Outstanding Student Training Program at Fudan (Siyuan Project)
+* Ad hoc Reviewer for *Global Finance Journal*
+* Counselor for Outstanding Student Training Program at Fudan (*Siyuan* Project)
 
 CV
 ------
