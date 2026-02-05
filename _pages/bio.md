@@ -25,20 +25,22 @@ Honors, Awards & Fellowships
 - ShanZhen Initiative Scholarship, Fudan SOE, 2022
 - Maxwealth Fund Scholarship (First Class Scholarship), Fudan, 2022
 - Honorable Student & WuYingFan Scholarship, Fudan SOE, 2022
-- Finalist and Nominee for Outstanding Student Pacesetter (only 20 finalists), Fudan, 2021
+- Finalist and Nominee for Outstanding Student (Top 20 students selected), Fudan, 2021
 - Huawei Scholarship (First Class Scholarship), Fudan, 2021
 - Cathay Life Insurance Scholarship (First Prize), Fudan SOE, 2021
 
 Teaching Experience
 ------
 * Fudan University
-  * Teaching Assistant: InsurTech (AI-core course) for Prof. Xian Xu, 2025-2026 Fall
-  * Teaching Assistant: InsurTech (AI-core course) for Prof. Xian Xu, 2024-2025 Fall
-  * Teaching Assistant: InsurTech for Prof. Xian Xu, 2023-2024 Fall
+  * Teaching Assistant: *Jiang Xuemo* Economics Lecture for Prof. Arman Eshraghi, 2026 Spring
+  * Teaching Assistant: InsurTech (AI-core course) for Prof. Xian Xu, 2025 Fall
+  * Teaching Assistant: InsurTech (AI-core course) for Prof. Xian Xu, 2024 Fall
+  * Teaching Assistant: InsurTech for Prof. Xian Xu, 2023 Fall
   
 Conference Presentations
 ------
 - The 5th World Risk and Insurance Economics Congress (WRIEC) / 2025 American Risk and Insurance Association (ARIA) Annual Meeting, Calgary, Canada, 2025
+- 2025 Chinese Economists Society (CES) Annual Conference, Guangzhou, China, 2025
 - The 14th China International Conference on Insurance and Risk Management (CICIRM), Ningbo, China, 2024
 - The 6th Fudan-Ulm Symposium on Finance and Insurance, Shanghai, China, 2024
 - The 7th China Health Economics Forum (CHEF), Beijing, China, 2024
