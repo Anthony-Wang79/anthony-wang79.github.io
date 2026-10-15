@@ -25,7 +25,7 @@ author_profile: true
         <span class="research-theme__number">01 <span>DESIGN</span></span>
         <h3>Insurance design and risk sharing</h3>
         <p>How public and private insurance systems distribute health risks, interact with one another, and shape the reach of social protection.</p>
-        <p class="research-theme__tags">Institutions <span>·</span> Markets</p>
+        <p class="research-theme__tags">Public coverage <span>·</span> Private markets</p>
       </article>
 
       <article class="research-theme">
