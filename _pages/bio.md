@@ -11,8 +11,8 @@ redirect_from:
 <div class="academic-page bio-page">
   <section class="research-hero bio-hero" aria-labelledby="bio-overview">
     <p class="research-eyebrow">Biography</p>
-    <h2 id="bio-overview">Academic background and experience</h2>
-    <p class="research-lede">I am a Ph.D. candidate in Economics at Fudan University.</p>
+    <h2 id="bio-overview">Ph.D. Candidate in Economics at Fudan University</h2>
+    <p class="research-lede">My research lies at the intersection of insurance economics, health economics, and household finance.</p>
     <a class="bio-cv-link" href="/assets/CV.pdf">Download CV (PDF) <span aria-hidden="true">↗</span></a>
   </section>
 
