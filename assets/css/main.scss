@@ -40,4 +40,16 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-@import "home";
+.research-abstract {
+  margin: 0.5em 0 1.5em;
+}
+
+.research-abstract summary {
+  color: $link-color;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.research-abstract p {
+  margin: 0.75em 0 0;
+}
