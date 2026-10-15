@@ -40,7 +40,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.research-page {
+.academic-page {
   --research-ink: #20384b;
   --research-muted: #576875;
   --research-accent: #317481;
@@ -327,13 +327,13 @@
 }
 
 @media (max-width: 900px) {
-  .research-page .research-theme-grid {
+  .academic-page .research-theme-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
 @media (max-width: 600px) {
-  .research-page {
+  .academic-page {
     .research-hero {
       padding: 1.2rem 1.15rem 1.1rem;
     }
@@ -357,6 +357,140 @@
 
     .research-abstract {
       grid-column: 1;
+    }
+  }
+}
+
+.home-page .research-hero {
+  margin-bottom: 2rem;
+}
+
+.bio-page {
+  .bio-cv-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-top: 1rem;
+    padding: 0.62rem 0.9rem;
+    border-radius: 4px;
+    background: var(--research-ink);
+    color: #fff;
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-decoration: none;
+    transition: background 160ms ease, transform 160ms ease;
+  }
+
+  .bio-cv-link:hover {
+    background: var(--research-accent);
+    color: #fff;
+    transform: translateY(-1px);
+  }
+
+  .bio-section {
+    margin-top: 2.15rem;
+  }
+
+  .bio-education-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.8rem;
+  }
+
+  .bio-card {
+    min-width: 0;
+    padding: 0.95rem 1rem;
+    border: 1px solid var(--research-border);
+    border-left: 3px solid #8fb3b8;
+    border-radius: 4px;
+    background: linear-gradient(135deg, var(--research-soft), #fff 75%);
+  }
+
+  .bio-card__meta {
+    color: var(--research-accent);
+    font-size: 0.69rem;
+    font-weight: 700;
+    letter-spacing: 0.035em;
+  }
+
+  .bio-card h3 {
+    margin: 0.3rem 0;
+    font-size: 0.98rem;
+    line-height: 1.45;
+  }
+
+  .bio-card p {
+    margin: 0;
+    font-size: 0.82rem;
+    line-height: 1.55;
+  }
+
+  .bio-awards-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.55rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .bio-awards-grid li {
+    min-width: 0;
+    padding: 0.7rem 0.8rem;
+    border: 1px solid var(--research-border);
+    border-radius: 4px;
+    background: #fff;
+    font-size: 0.79rem;
+    line-height: 1.55;
+  }
+
+  .bio-conference-grid li {
+    background: var(--research-soft);
+  }
+
+  .bio-experience-list,
+  .bio-service-list {
+    display: grid;
+    gap: 0.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .bio-experience-list li {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: start;
+    gap: 0.4rem 1rem;
+    padding: 0.72rem 0.85rem;
+    border-bottom: 1px solid var(--research-border);
+    font-size: 0.82rem;
+    line-height: 1.55;
+  }
+
+  .bio-experience-list .bio-card__meta {
+    white-space: nowrap;
+  }
+
+  .bio-service-list li {
+    padding: 0.72rem 0.85rem;
+    border-left: 3px solid #8fb3b8;
+    background: var(--research-soft);
+    font-size: 0.82rem;
+    line-height: 1.6;
+  }
+}
+
+@media (max-width: 600px) {
+  .bio-page {
+    .bio-education-grid,
+    .bio-awards-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .bio-experience-list li {
+      grid-template-columns: 1fr;
+      gap: 0.2rem;
     }
   }
 }

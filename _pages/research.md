@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-<div class="research-page">
+<div class="academic-page research-page">
   <section class="research-hero" aria-labelledby="research-throughline">
     <p class="research-eyebrow">Research focus</p>
-    <h2 id="research-throughline">How insurance institutions shape household responses to health and longevity risks</h2>
-    <p class="research-lede">My research asks how insurance institutions, information, and incentives shape the ways households manage risk—and how those choices affect financial protection and welfare.</p>
+    <h2 id="research-throughline">How insurance shapes household responses to health and longevity risks</h2>
+    <p class="research-lede">I study how insurance design shapes household responses to health and longevity risks, and what those responses mean for risk protection and welfare. Information and incentives complement this focus by influencing insurance choices and outcomes.</p>
     <p class="research-scholar"><a href="https://scholar.google.com/citations?user=75F0_ioAAAAJ&amp;hl">View my papers on Google Scholar <span aria-hidden="true">↗</span></a></p>
   </section>
 
@@ -22,8 +22,8 @@ author_profile: true
 
     <div class="research-theme-grid">
       <article class="research-theme">
-        <span class="research-theme__number">01 <span>INSTITUTIONS</span></span>
-        <h3>Insurance institutions and risk sharing</h3>
+        <span class="research-theme__number">01 <span>DESIGN</span></span>
+        <h3>Insurance design and risk sharing</h3>
         <p>How public and private insurance systems distribute health risks, interact with one another, and shape the reach of social protection.</p>
         <p class="research-theme__tags">Institutions <span>·</span> Markets</p>
       </article>
