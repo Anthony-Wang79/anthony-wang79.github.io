@@ -53,6 +53,7 @@ Service and Leadership
 
 CV
 ------
-For detailed information, please refer to my [CV](/assets/CV.pdf):
-<iframe src="/assets/CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+For detailed information, please view or download my CV.
+
+<a class="btn" href="/assets/CV.pdf">Download CV (PDF)</a>
 

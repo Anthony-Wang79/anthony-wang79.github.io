@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Xintong (Anthony) Wang"
 title_separator          : "-"
 name                     : &name "Xintong (Anthony) Wang"
-description              : &description "Ph.D. Candidate @ Fudan SOE"
+description              : &description "Ph.D. Candidate in Economics at Fudan University. Research on insurance, health economics, and household finance."
 url                      : https://anthony-wang79.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Anthony-Wang79/anthony-wang79.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "Xintong Wang.jpg"
   name             : "Xintong (Anthony) Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate @ Fudan SOE"
+  bio              : "Ph.D. Candidate in Economics, Fudan University"
   location         : "Shanghai, China"
   employer         : "Fudan University"
   uri              : # URL
