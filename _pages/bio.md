@@ -20,6 +20,7 @@ Education
 
 Honors, Awards & Fellowships
 ------
+- National Scholarship, 2026
 - Distinguished Graduate of Shanghai, 2023
 - Outstanding Student, Fudan, 2019-2023
 - ShanZhen Initiative Scholarship, Fudan SOE, 2022
@@ -47,7 +48,7 @@ Conference Presentations
 
 Service and Leadership
 ------
-* Ad hoc Reviewer for *Global Finance Journal*
+* Ad hoc Reviewer for *Global Finance Journal*, *World Economic Papers* (in Chinese)
 * Counselor for Outstanding Student Training Program at Fudan (*Siyuan* Project)
 
 CV
