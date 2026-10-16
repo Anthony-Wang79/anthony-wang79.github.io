@@ -23,10 +23,14 @@ author:
   # Biographic information
   avatar           : "Xintong Wang.jpg"
   name             : "Xintong (Anthony) Wang"
+  name_zh          : "王昕彤"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics, Fudan University"
+  bio_zh           : "复旦大学经济学博士研究生"
   location         : "Shanghai, China"
+  location_zh      : "中国上海"
   employer         : "Fudan University"
+  employer_zh      : "复旦大学"
   uri              : # URL
   email            : "wangxt19@fudan.edu.cn" 
 

@@ -1,6 +1,10 @@
 ---
 permalink: /
+lang: en
+translation_url: /zh/
+seo_title: "Xintong (Anthony) Wang | Fudan University"
 description: "Xintong (Anthony) Wang studies how insurance shapes household responses to health and longevity risks, and the implications for risk protection and welfare."
+keywords: "Xintong Wang, Fudan University, insurance economics, health economics, household finance"
 author_profile: true
 redirect_from:
   - /about/

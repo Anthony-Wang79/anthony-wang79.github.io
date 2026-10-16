@@ -5,7 +5,7 @@ layout: compress
 {% include base_path %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="{{ page.lang | default: site.locale }}" class="no-js">
   <head>
    {% include head.html %}
    {% include head/custom.html %}
@@ -16,11 +16,10 @@ layout: compress
    <meta name="robots" content="index, follow">
 
    <!-- Basic information -->
-   <title>Xintong Wang - Fudan University</title>
-   <meta name="description" content="Xintong Wang is a Ph.D. Candidate at the School of Economics, Fudan University. His research interests lie in the intersection of Insurance, Health Economics, and Information Economics.">
-   <meta name="keywords" content="Xintong Wang, Fudan University, Insurance, Health Economics, Public Policy, CCSMI, China Insurance, Health Insurance, Economics">
-   <meta name="author" content="Xintong Wang">
-   <meta http-equiv="Content-Language" content="en">
+   <meta name="description" content="{{ page.description | default: site.description | strip_html | strip_newlines | escape }}">
+   <meta name="keywords" content="{{ page.keywords | default: 'Xintong Wang, Fudan University, insurance economics, health economics, household finance' | escape }}">
+   <meta name="author" content="{% if page.lang == 'zh-CN' %}{{ site.author.name_zh | default: '王昕彤' }}{% else %}{{ site.author.name | escape }}{% endif %}">
+   <meta http-equiv="Content-Language" content="{{ page.lang | default: site.locale }}">
   </head>
 
    <body>

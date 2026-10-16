@@ -2,6 +2,11 @@
 layout: archive
 title: "Research"
 permalink: /research/
+lang: en
+translation_url: /zh/research/
+seo_title: "Research | Xintong (Anthony) Wang"
+description: "Research on insurance, health, household finance, risk protection, and welfare by Xintong (Anthony) Wang."
+keywords: "Xintong Wang, insurance economics, health economics, household finance, research"
 author_profile: true
 ---
 

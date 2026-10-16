@@ -2,6 +2,11 @@
 layout: archive
 title: "Bio"
 permalink: /bio/
+lang: en
+translation_url: /zh/bio/
+seo_title: "Biography | Xintong (Anthony) Wang"
+description: "Biography, education, honors, teaching experience, conference presentations, and academic service of Xintong (Anthony) Wang."
+keywords: "Xintong Wang, biography, education, Fudan University, CV"
 author_profile: true
 redirect_from:
   - /resume

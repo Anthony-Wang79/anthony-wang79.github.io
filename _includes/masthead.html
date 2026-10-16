@@ -1,4 +1,8 @@
 {% include base_path %}
+{% assign site_home_url = '/' %}
+{% if page.lang == 'zh-CN' %}
+  {% assign site_home_url = '/zh/' %}
+{% endif %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -6,18 +10,35 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ site_home_url | relative_url }}">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
+            {% assign link_url = link.url %}
+            {% if page.lang == 'zh-CN' %}
+              {% assign link_url = link.url_zh | default: link.url %}
+            {% endif %}
+            {% if link_url contains 'http' %}
               {% assign domain = '' %}
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link_url }}">{% if page.lang == 'zh-CN' %}{{ link.title_zh | default: link.title }}{% else %}{{ link.title }}{% endif %}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
+      {% if page.translation_url %}
+        <div class="language-switch" role="group" aria-label="{% if page.lang == 'zh-CN' %}语言选择{% else %}Language selection{% endif %}">
+          {% if page.lang == 'zh-CN' %}
+            <a href="{{ page.translation_url | relative_url }}" lang="en" aria-label="Switch to English">English</a>
+            <span aria-hidden="true">|</span>
+            <span class="language-switch__current" lang="zh-CN" aria-current="page">中文</span>
+          {% else %}
+            <span class="language-switch__current" lang="en" aria-current="page">English</span>
+            <span aria-hidden="true">|</span>
+            <a href="{{ page.translation_url | relative_url }}" lang="zh-CN" aria-label="切换到中文">中文</a>
+          {% endif %}
+        </div>
+      {% endif %}
     </div>
   </div>
 </div>

@@ -6,7 +6,11 @@
 
 main:
   - title: "Bio"
+    title_zh: "简介"
     url: /bio/
+    url_zh: /zh/bio/
 
   - title: "Research"
+    title_zh: "研究"
     url: /research/
+    url_zh: /zh/research/
