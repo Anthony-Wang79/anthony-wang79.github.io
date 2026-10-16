@@ -6,15 +6,15 @@ lang: zh-CN
 translation_url: /research/
 seo_title: "研究 | 王昕彤"
 description: "王昕彤关于保险、健康、家庭金融、风险保障与福利的研究。"
-keywords: "王昕彤, 保险经济学, 健康经济学, 家庭金融, 保险研究"
+keywords: "王昕彤, 保险经济学, 健康经济学, 家庭金融"
 author_profile: true
 ---
 
 <div class="academic-page research-page">
   <section class="research-hero" aria-labelledby="research-throughline">
     <p class="research-eyebrow">研究主题</p>
-    <h2 id="research-throughline">保险如何影响家庭应对健康与长寿风险</h2>
-    <p class="research-lede">我研究保险如何影响家庭应对健康与长寿风险，以及由此产生的福利结果。信息与激励也会影响保险选择及其后续结果，是这条研究主线的重要组成部分。</p>
+    <h2 id="research-throughline">保险与健康/长寿风险的应对</h2>
+    <p class="research-lede">研究主要关注保险如何影响家庭应对健康与长寿风险的行为选择，以及相应的福利水平；同时考察信息与激励在此过程中的作用。</p>
     <p class="research-scholar"><a href="https://scholar.google.com/citations?user=75F0_ioAAAAJ&amp;hl">在 Google Scholar 查看我的论文 <span aria-hidden="true">↗</span></a></p>
   </section>
 
@@ -22,28 +22,28 @@ author_profile: true
     <div class="research-section__heading">
       <p class="research-eyebrow">研究视角</p>
       <h2 id="research-perspectives">从风险分担到家庭福利</h2>
-      <p>我的研究从三个相互关联的视角考察这一总体问题。</p>
+      <p>我的研究从三个相互关联的视角考察这一问题。</p>
     </div>
 
     <div class="research-theme-grid">
       <article class="research-theme">
         <span class="research-theme__number">01 <span>设计</span></span>
         <h3>保险设计与风险分担</h3>
-        <p>公共与商业保险体系如何分担健康风险、如何相互作用，以及如何影响社会保障的覆盖范围。</p>
+        <p>多层次医疗保障体系如何分担健康风险、如何优化产品设计和层次衔接。</p>
         <p class="research-theme__tags">保险设计 <span>·</span> 保险市场</p>
       </article>
 
       <article class="research-theme">
         <span class="research-theme__number">02 <span>家庭</span></span>
         <h3>不确定性下的家庭决策</h3>
-        <p>信息、激励与不确定性如何影响家庭在保险、预防、医疗照护和家庭财务方面的决策。</p>
+        <p>信息、激励与不确定性如何影响家庭在保险、风险管理以及其他维度的行为决策。</p>
         <p class="research-theme__tags">信息 <span>·</span> 行为</p>
       </article>
 
       <article class="research-theme">
         <span class="research-theme__number">03 <span>福利</span></span>
         <h3>全生命周期的财务韧性</h3>
-        <p>健康需求、长寿风险与家庭经济资源如何共同变化，以及保险如何在这些变化中为家庭提供支持。</p>
+        <p>人口老龄化背景下健康风险与经济资源如何共同变化，以及保险如何在变化中为家庭更好提供支持。</p>
         <p class="research-theme__tags">健康 <span>·</span> 老龄化 <span>·</span> 家庭金融</p>
       </article>
     </div>
@@ -51,7 +51,7 @@ author_profile: true
 
   <section class="research-section" aria-labelledby="selected-publication">
     <div class="research-section__heading">
-      <p class="research-eyebrow">代表性成果</p>
+      <p class="research-eyebrow">论文发表</p>
       <h2 id="selected-publication">保险、健康与福祉</h2>
     </div>
 
@@ -65,15 +65,10 @@ author_profile: true
         <p class="research-paper__features">相关报道：<a href="https://voxdev.org/topic/health/understanding-chinas-huge-expansion-health-insurance">VoxDev</a> 与 <a href="https://www.voxchina.org/show-3-459.html">VoxChina</a></p>
       </div>
 
-      <aside class="research-finding" aria-label="主要发现">
-        <span class="research-finding__number">≥25%</span>
-        <p>CCSMI带来的新增参保增量中，至少四分之一被商业保险购买的减少所抵消。</p>
-        <small>粗略估算</small>
-      </aside>
 
       <details class="research-abstract">
         <summary>摘要</summary>
-        <p>公私合作（PPP）健康保险计划被视为在保持财政可持续性的同时扩大保障覆盖面的潜在工具。然而，在中国这类基本医保已实现全民覆盖、商业保险市场仍处于发展阶段的环境中，人们对这类计划的影响知之甚少，尤其不清楚它们究竟扩大整体保障，还是挤出现有商业保险。为回答这一问题，我们利用中国各城市分期推出城市定制型补充医疗保险（CCSMI）的制度差异，并结合一套新的商业健康保险交易级数据。结果显示，CCSMI在保险购买的广延边际和集约边际均产生显著溢出效应：它明显挤出商业保险购买，并降低平均保障额度。平均保费支出也有所下降，其中约三分之二来自消费者转向保障范围较窄的产品，其余部分可能源于保险公司的定价调整。粗略估算显示，商业保险购买的减少至少抵消了CCSMI新增参保带来的25%增量。这些发现为全面评估公私合作保险项目提供了重要依据。</p>
+        <p>社商合作（PPP）健康保险计划被视为在保持财政可持续性的同时扩大保障覆盖面的潜在工具。然而，在中国这类基本医保已实现全民覆盖、商业保险市场仍处于发展阶段的环境中，人们对这类计划的影响知之甚少，尤其不清楚它们究竟扩大整体保障，还是挤出现有商业保险。为回答这一问题，我们利用中国各城市分期推出城市定制型医疗保险（惠民保）的制度差异，并结合一套商业健康保险的微观数据。结果显示，惠民保在保险购买的广延边际和集约边际均产生显著溢出效应：它挤出了商业保险购买，并降低平均保障额度。平均保费支出也有所下降，其中约三分之二来自消费者转向保障范围较窄的产品，其余部分可能源于保险公司的定价调整。粗略估算显示，商业保险购买的减少至少抵消了惠民保新增参保带来的25%增量。这些发现为全面评估社商合作保险项目提供了重要依据。</p>
       </details>
     </article>
 
@@ -90,7 +85,7 @@ author_profile: true
   <section class="research-section research-current" aria-labelledby="work-in-progress">
     <div class="research-section__heading">
       <p class="research-eyebrow">在研工作</p>
-      <h2 id="work-in-progress">工作论文</h2>
+      <h2 id="work-in-progress">进展中论文</h2>
     </div>
     <div class="research-current__item">
       <p class="research-current__meta">2026</p>
