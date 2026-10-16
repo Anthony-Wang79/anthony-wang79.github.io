@@ -11,7 +11,7 @@ redirect_from:
   <section class="research-hero" aria-labelledby="home-research-focus">
     <p class="research-eyebrow">Insurance economics · Health economics · Household finance</p>
     <h2 id="home-research-focus">Insurance, health, and household welfare</h2>
-    <p class="research-lede">I am a Ph.D. candidate in Economics at Fudan University. My research lies at the intersection of insurance economics, health economics, and household finance. I study how insurance shapes household responses to health and longevity risks, while examining how information and incentives shape those responses and their implications for welfare.</p>
+    <p class="research-lede">Welcome! My name is Xintong Wang (王昕彤). I am a Ph.D. candidate in Economics at Fudan University. My research lies at the intersection of insurance economics, health economics, and household finance. I study how insurance shapes household responses to health and longevity risks, while examining how information and incentives shape those responses and their implications for welfare.</p>
   </section>
 
   <section class="research-section home-featured" aria-labelledby="home-featured-research">
