@@ -15,7 +15,7 @@ author_profile: true
     <p class="research-eyebrow">个人简介</p>
     <h2 id="bio-overview">经济学博士研究生</h2>
     <p class="research-lede">我现为复旦大学经济学院博士研究生（复旦大学“卓博计划”第三期），导师为许闲教授（现任复旦大学经济学院副院长、风险管理与保险学系主任）。</p>
-      我的研究领域为保险经济学、健康经济学、家庭金融，成果发表于<em>Journal of Development Economics</em>、《保险研究》等中英文重要学术期刊。</p>
+    <p class="research-lede">我的研究领域为保险经济学、健康经济学、家庭金融，成果发表于<em>Journal of Development Economics</em>、《保险研究》等中英文重要学术期刊。</p>
     <a class="bio-cv-link" href="{{ '/assets/CV.pdf' | relative_url }}">下载简历（PDF） <span aria-hidden="true">↗</span></a>
   </section>
 
