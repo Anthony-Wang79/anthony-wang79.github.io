@@ -79,6 +79,11 @@ class BilingualPagesTests(unittest.TestCase):
         self.assertIn("text-overflow: ellipsis", masthead_styles)
         self.assertIn("overflow: hidden", masthead_styles)
 
+    def test_simplified_chinese_feed_label_means_subscription(self):
+        ui_text = read("_data/ui-text.yml")
+        self.assertNotIn('feed_label                 : "打赏"', ui_text)
+        self.assertEqual(len(re.findall(r"^zh-CN:", ui_text, re.MULTILINE)), 1)
+
 
 if __name__ == "__main__":
     unittest.main()
