@@ -77,7 +77,7 @@ author_profile: true
         <p class="research-paper__journal">Insurance Studies (保险研究) <span>·</span> 2026</p>
         <h3><a href="https://link.cnki.net/doi/10.13497/j.cnki.is.2026.05.003">Dual Paradoxes in Commercial Health Insurance: The Claims Ratio Paradox and the Perceived Benefit Paradox</a></h3>
         <p class="research-paper__authors">With <a href="https://xianxu-econ.com/">Xian Xu</a></p>
-        <a class="research-paper__link" href="https://link.cnki.net/doi/10.13497/j.cnki.is.2026.05.003">View article <span aria-hidden="true">↗</span></a>
+        <a class="research-paper__link" href="https://link.cnki.net/doi/10.13497/j.cnki.is.2026.05.003">View published article <span aria-hidden="true">↗</span></a>
       </div>
     </article>
   </section>
