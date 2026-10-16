@@ -13,7 +13,7 @@ author_profile: true
     <p class="research-eyebrow">保险经济学 · 健康经济学 · 家庭金融</p>
     <h2 id="home-research-focus">保险、健康与福祉</h2>
     <p class="research-lede">王昕彤，复旦大学经济学院博士研究生（卓博计划）</p>
-    <p class="research-lede">我的研究关注保险如何影响家庭应对健康与长寿风险的行为选择以及相应的福利水平，同时考察信息与激励在此过程中的作用。</p>
+    <p class="research-lede">我的研究关注保险如何影响家庭应对健康与长寿风险的行为选择以及相应的福利水平，同时考察信息与激励在此过程中的作用。</p></p>
     <p class="research-scholar"><a href="{{ '/zh/research/' | relative_url }}">我的研究 <span aria-hidden="true">↗</span></a></p>
   </section>
 
