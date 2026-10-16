@@ -14,7 +14,7 @@ author_profile: true
   <section class="research-hero bio-hero" aria-labelledby="bio-overview">
     <p class="research-eyebrow">个人简介</p>
     <h2 id="bio-overview">复旦大学经济学院博士研究生</h2>
-    <p class="research-lede">我的研究围绕保险经济学、健康经济学与家庭金融展开。研究发表于<em>Journal of Development Economics</em>、《保险研究》等中英文权威学术期刊。</p>
+    <p class="research-lede">我的研究领域为保险经济学、健康经济学、家庭金融。研究发表于<em>Journal of Development Economics</em>、《保险研究》等中英文权威学术期刊。</p>
     <a class="bio-cv-link" href="{{ '/assets/CV.pdf' | relative_url }}">下载简历（PDF） <span aria-hidden="true">↗</span></a>
   </section>
 
@@ -26,12 +26,12 @@ author_profile: true
     <div class="bio-education-grid">
       <article class="bio-card bio-education-card">
         <span class="bio-card__meta">2023–2027 · 预计</span>
-        <h3>经济学博士</h3>
+        <h3>经济学博士（金融学专业）</h3>
         <p>复旦大学 · 卓博计划</p>
       </article>
       <article class="bio-card bio-education-card">
         <span class="bio-card__meta">2019–2023</span>
-        <h3>经济学学士</h3>
+        <h3>经济学学士（保险学专业）</h3>
         <p>复旦大学</p>
       </article>
     </div>
@@ -80,10 +80,10 @@ author_profile: true
       <h2 id="bio-presentations">学术会议报告</h2>
     </div>
     <ul class="bio-awards-grid bio-conference-grid">
-      <li>第五届世界风险与保险经济学大会（WRIEC）暨2025年美国风险与保险协会年会（ARIA） · 加拿大卡尔加里 · 2025</li>
+      <li>第五届世界风险与保险经济学大会（WRIEC）暨2025年美国风险与保险学会年会（ARIA） · 加拿大卡尔加里 · 2025</li>
       <li>2025年中国留美经济学会年会（CES） · 中国广州 · 2025</li>
-      <li>第十四届中国保险与风险管理国际会议（CICIRM） · 中国宁波 · 2024</li>
-      <li>第六届复旦—乌尔姆金融与保险研讨会 · 中国上海 · 2024</li>
+      <li>第十四届中国保险与风险管理国际年会（CICIRM） · 中国宁波 · 2024</li>
+      <li>第六届复旦—乌尔姆金融保险论坛 · 中国上海 · 2024</li>
       <li>第七届中国健康经济学论坛（CHEF） · 中国北京 · 2024</li>
     </ul>
   </section>
@@ -94,7 +94,7 @@ author_profile: true
       <h2 id="bio-service">学术服务与学生工作</h2>
     </div>
     <ul class="bio-service-list">
-      <li>担任 <em>Global Finance Journal</em> 与《世界经济文汇》匿名审稿人</li>
+      <li>担任 <em>Global Finance Journal</em> 、《世界经济文汇》等期刊匿名审稿人</li>
       <li>担任复旦大学优秀学生培养计划（思源计划）辅导员</li>
     </ul>
   </section>
