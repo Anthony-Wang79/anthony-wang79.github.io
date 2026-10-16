@@ -84,6 +84,10 @@ class BilingualPagesTests(unittest.TestCase):
         self.assertNotIn('feed_label                 : "打赏"', ui_text)
         self.assertEqual(len(re.findall(r"^zh-CN:", ui_text, re.MULTILINE)), 1)
 
+    def test_stylesheet_url_is_cache_busted_on_site_build(self):
+        head = read("_includes/head.html")
+        self.assertIn("main.css?v={{ site.time | date: '%s' }}", head)
+
 
 if __name__ == "__main__":
     unittest.main()
