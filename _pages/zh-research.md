@@ -90,12 +90,12 @@ author_profile: true
     <div class="research-current__item">
       <p class="research-current__meta">2026</p>
       <h3>Exploring Health Improvement Incentives through Wellness-Linked Insurance Products</h3>
-      <p>与 <a href="https://www.uni-ulm.de/mawi/ivw/institut/team/achen/">陈安</a>、<a href="https://dh-huiding.github.io/">丁晖</a> 和 <a href="https://xianxu-econ.com/">许闲</a> 合作。</p>
+      <p>与 <a href="https://www.uni-ulm.de/mawi/ivw/institut/team/achen/">陈安</a>、<a href="https://dh-huiding.github.io/">丁晖</a> 和 <a href="https://xianxu-econ.com/">许闲</a> 合作</p>
     </div>
     <div class="research-current__item">
       <p class="research-current__meta">2026</p>
       <h3>Public Disclosure of Health Information and Insurance Demand</h3>
-      <p>与 <a href="https://xianxu-econ.com/">许闲</a> 合作。</p>
+      <p>与 <a href="https://xianxu-econ.com/">许闲</a> 合作</p>
     </div>
   </section>
 </div>
