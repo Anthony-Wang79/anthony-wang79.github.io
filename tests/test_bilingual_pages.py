@@ -94,6 +94,7 @@ class BilingualPagesTests(unittest.TestCase):
         home = read("_pages/zh-about.md")
         bio = read("_pages/zh-bio.md")
         research = read("_pages/zh-research.md")
+        main_styles = read("assets/css/main.scss")
 
         self.assertIn("{% assign masthead_title = site.title %}", masthead)
         self.assertIn("{% assign masthead_title = site.author.name_zh | default: site.title %}", masthead)
@@ -101,8 +102,9 @@ class BilingualPagesTests(unittest.TestCase):
         self.assertIn('bio_zh           : "复旦大学经济学院博士研究生"', config)
 
         self.assertIn("保险、健康与福祉", home)
-        self.assertIn("我是王昕彤，复旦大学经济学院博士研究生。", home)
-        self.assertIn("我的研究关注保险如何影响家庭应对健康与长寿风险的行为选择，以及相应的福利水平；同时考察信息与激励在此过程中的作用。", home)
+        self.assertIn("王昕彤，复旦大学经济学院博士研究生（卓博计划）", home)
+        self.assertIn("我的研究关注保险如何影响家庭应对健康与长寿风险的行为选择以及相应的福利水平，同时考察信息与激励在此过程中的作用。", home)
+        self.assertRegex(main_styles, r"\.home-page \.research-hero \.research-lede \+ \.research-lede\s*\{\s*margin-top:\s*1\.25rem;")
         self.assertIn("The Impact of Public-Private Partnership Health Plans on Private Insurance", home)
         self.assertIn("本文以中国城市定制型医疗保险计划（惠民保）为研究背景，发现社商合作型保险保障的扩展可能挤出商业保险购买，并降低平均保障额度。", home)
         self.assertIn(">阅读论文 <span", home)
