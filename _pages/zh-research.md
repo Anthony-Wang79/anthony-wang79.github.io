@@ -27,7 +27,7 @@ author_profile: true
 
     <div class="research-theme-grid">
       <article class="research-theme">
-        <span class="research-theme__number">01 <span>设计</span></span>
+        <span class="research-theme__number">01 <span>保险</span></span>
         <h3>保险设计与风险分担</h3>
         <p>多层次医疗保障体系如何分担健康风险、如何优化产品设计和层次衔接。</p>
         <p class="research-theme__tags">保险设计 <span>·</span> 保险市场</p>
@@ -41,7 +41,7 @@ author_profile: true
       </article>
 
       <article class="research-theme">
-        <span class="research-theme__number">03 <span>福利</span></span>
+        <span class="research-theme__number">03 <span>福祉</span></span>
         <h3>全生命周期的发展韧性</h3>
         <p>人口老龄化背景下健康风险与经济资源如何共同变化，以及保险如何在变化中为家庭更好提供支持。</p>
         <p class="research-theme__tags">健康 <span>·</span> 老龄化 <span>·</span> 家庭金融</p>
