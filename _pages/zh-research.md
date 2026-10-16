@@ -52,16 +52,16 @@ author_profile: true
   <section class="research-section" aria-labelledby="selected-publication">
     <div class="research-section__heading">
       <p class="research-eyebrow">代表性成果</p>
-      <h2 id="selected-publication">保险、健康与家庭福利</h2>
+      <h2 id="selected-publication">保险、健康与福祉</h2>
     </div>
 
     <article class="research-paper">
       <div class="research-paper__main">
         <p class="research-paper__journal">Journal of Development Economics <span>·</span> 2026</p>
-        <h3><a href="https://doi.org/10.1016/j.jdeveco.2026.103780">公私合作健康保障计划对商业保险的影响</a></h3>
+        <h3><a href="https://doi.org/10.1016/j.jdeveco.2026.103780">The Impact of Public-Private Partnership Health Plans on Private Insurance</a></h3>
         <p class="research-paper__authors">与 <a href="https://dh-huiding.github.io/">Hui Ding</a>、<a href="https://xianxu-econ.com/">Xian Xu</a> 合作</p>
-        <p class="research-paper__summary">基于中国城市定制型健康保险计划的证据，研究发现，公私合作保障的扩展也会影响商业保险市场：计划推出后，商业保险购买和平均保障额度均有所下降。</p>
-        <a class="research-paper__link" href="https://doi.org/10.1016/j.jdeveco.2026.103780">查看已发表论文 <span aria-hidden="true">↗</span></a>
+        <p class="research-paper__summary">本文以中国城市定制型医疗保险计划（惠民保）为研究背景，发现社商合作型保险保障的扩展可能挤出商业保险购买，并降低平均保障额度。</p>
+        <a class="research-paper__link" href="https://doi.org/10.1016/j.jdeveco.2026.103780">阅读论文 <span aria-hidden="true">↗</span></a>
         <p class="research-paper__features">相关报道：<a href="https://voxdev.org/topic/health/understanding-chinas-huge-expansion-health-insurance">VoxDev</a> 与 <a href="https://www.voxchina.org/show-3-459.html">VoxChina</a></p>
       </div>
 
@@ -80,9 +80,9 @@ author_profile: true
     <article class="research-paper research-paper--single research-paper--secondary">
       <div class="research-paper__main">
         <p class="research-paper__journal">《保险研究》 <span>·</span> 2026</p>
-        <h3><a href="https://link.cnki.net/doi/10.13497/j.cnki.is.2026.05.003">商业健康保险中的双重悖论：赔付率悖论与获得感悖论</a></h3>
+        <h3><a href="https://link.cnki.net/doi/10.13497/j.cnki.is.2026.05.003">商业健康保险的赔付率悖论与获得感悖论：兼论多层次医疗保障体系的制度衔接路径</a></h3>
         <p class="research-paper__authors">与许闲合作</p>
-        <a class="research-paper__link" href="https://link.cnki.net/doi/10.13497/j.cnki.is.2026.05.003">查看已发表论文 <span aria-hidden="true">↗</span></a>
+        <a class="research-paper__link" href="https://link.cnki.net/doi/10.13497/j.cnki.is.2026.05.003">阅读论文 <span aria-hidden="true">↗</span></a>
       </div>
     </article>
   </section>
@@ -94,12 +94,12 @@ author_profile: true
     </div>
     <div class="research-current__item">
       <p class="research-current__meta">2026</p>
-      <h3>健康关联保险产品与健康改善激励</h3>
+      <h3>Exploring Health Improvement Incentives through Wellness-Linked Insurance Products</h3>
       <p>与 <a href="https://www.uni-ulm.de/mawi/ivw/institut/team/achen/">An Chen</a>、<a href="https://dh-huiding.github.io/">Hui Ding</a> 和 <a href="https://xianxu-econ.com/">Xian Xu</a> 合作。</p>
     </div>
     <div class="research-current__item">
       <p class="research-current__meta">2026</p>
-      <h3>健康信息公开与保险需求</h3>
+      <h3>Public Disclosure of Health Information and Insurance Demand</h3>
       <p>与 <a href="https://xianxu-econ.com/">Xian Xu</a> 合作。</p>
     </div>
   </section>

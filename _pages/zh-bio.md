@@ -13,8 +13,8 @@ author_profile: true
 <div class="academic-page bio-page">
   <section class="research-hero bio-hero" aria-labelledby="bio-overview">
     <p class="research-eyebrow">个人简介</p>
-    <h2 id="bio-overview">复旦大学经济学博士研究生</h2>
-    <p class="research-lede">我的研究位于保险经济学、健康经济学与家庭金融的交叉领域。</p>
+    <h2 id="bio-overview">复旦大学经济学院博士研究生</h2>
+    <p class="research-lede">我的研究围绕保险经济学、健康经济学与家庭金融展开。研究发表于<em>Journal of Development Economics</em>、《保险研究》等中英文权威学术期刊。</p>
     <a class="bio-cv-link" href="{{ '/assets/CV.pdf' | relative_url }}">下载简历（PDF） <span aria-hidden="true">↗</span></a>
   </section>
 
@@ -27,12 +27,12 @@ author_profile: true
       <article class="bio-card bio-education-card">
         <span class="bio-card__meta">2023–2027 · 预计</span>
         <h3>经济学博士</h3>
-        <p>经济学菁英博士项目 · 复旦大学</p>
+        <p>复旦大学 · 卓博计划</p>
       </article>
       <article class="bio-card bio-education-card">
         <span class="bio-card__meta">2019–2023</span>
         <h3>经济学学士</h3>
-        <p>复旦大学 · 以最高荣誉毕业</p>
+        <p>复旦大学</p>
       </article>
     </div>
   </section>
@@ -46,13 +46,6 @@ author_profile: true
       <li>国家奖学金，2026</li>
       <li>复旦大学学术之星，2026</li>
       <li>上海市优秀毕业生，2023</li>
-      <li>复旦大学优秀学生，2019–2023</li>
-      <li>善真计划奖学金（复旦大学经济学院），2022</li>
-      <li>Maxwealth Fund Scholarship（一等奖），复旦大学，2022</li>
-      <li>优秀学生及吴英藩奖学金（复旦大学经济学院），2022</li>
-      <li>复旦大学优秀学生评选入围及提名（入选前20名），2021</li>
-      <li>华为奖学金（一等奖），复旦大学，2021</li>
-      <li>国泰人寿奖学金（一等奖），复旦大学经济学院，2021</li>
     </ul>
   </section>
 
@@ -63,19 +56,19 @@ author_profile: true
     </div>
     <ul class="bio-experience-list">
       <li>
-        <span>助教 · 江学模经济学讲座（Arman Eshraghi 教授）</span>
+        <span>助教 · 蒋学模经济学讲座（Arman Eshraghi 教授）</span>
         <span class="bio-card__meta">2026年春季</span>
       </li>
       <li>
-        <span>助教 · 保险科技（人工智能核心课程，Xian Xu 教授）</span>
+        <span>助教 · 保险科技（复旦大学AI大课，许闲教授）</span>
         <span class="bio-card__meta">2025年秋季</span>
       </li>
       <li>
-        <span>助教 · 保险科技（人工智能核心课程，Xian Xu 教授）</span>
+        <span>助教 · 保险科技（复旦大学AI大课，许闲教授）</span>
         <span class="bio-card__meta">2024年秋季</span>
       </li>
       <li>
-        <span>助教 · 保险科技（Xian Xu 教授）</span>
+        <span>助教 · 保险科技（许闲教授）</span>
         <span class="bio-card__meta">2023年秋季</span>
       </li>
     </ul>
@@ -102,7 +95,7 @@ author_profile: true
     </div>
     <ul class="bio-service-list">
       <li>担任 <em>Global Finance Journal</em> 与《世界经济文汇》匿名审稿人</li>
-      <li>担任复旦大学思源计划优秀学生培养项目辅导员</li>
+      <li>担任复旦大学优秀学生培养计划（思源计划）辅导员</li>
     </ul>
   </section>
 </div>

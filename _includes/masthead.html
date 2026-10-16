@@ -1,7 +1,9 @@
 {% include base_path %}
 {% assign site_home_url = '/' %}
+{% assign masthead_title = site.title %}
 {% if page.lang == 'zh-CN' %}
   {% assign site_home_url = '/zh/' %}
+  {% assign masthead_title = site.author.name_zh | default: site.title %}
 {% endif %}
 
 <div class="masthead">
@@ -10,7 +12,7 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ site_home_url | relative_url }}">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ site_home_url | relative_url }}">{{ masthead_title }}</a></li>
           {% for link in site.data.navigation.main %}
             {% assign link_url = link.url %}
             {% if page.lang == 'zh-CN' %}
