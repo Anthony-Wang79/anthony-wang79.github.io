@@ -42,6 +42,7 @@ redirect_from:
     </div>
     <ul class="bio-awards-grid">
       <li>National Scholarship, 2026</li>
+      <li>Academic Star, Fudan, 2026</li>
       <li>Distinguished Graduate of Shanghai, 2023</li>
       <li>Outstanding Student, Fudan, 2019–2023</li>
       <li>ShanZhen Initiative Scholarship, Fudan SOE, 2022</li>
