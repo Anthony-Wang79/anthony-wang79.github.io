@@ -15,7 +15,7 @@ author_profile: true
     <p class="research-eyebrow">研究主题</p>
     <h2 id="research-throughline">保险与健康/长寿风险的应对</h2>
     <p class="research-lede">研究主要关注保险如何影响家庭应对健康与长寿风险的行为选择，以及相应的福利水平；同时考察信息与激励在此过程中的作用。</p>
-    <p class="research-scholar"><a href="https://scholar.google.com/citations?user=75F0_ioAAAAJ&amp;hl">在 Google Scholar 查看我的论文 <span aria-hidden="true">↗</span></a></p>
+    <p class="research-scholar"><a href="https://scholar.google.com/citations?user=75F0_ioAAAAJ&amp;hl">Google Scholar<span aria-hidden="true">↗</span></a></p>
   </section>
 
   <section class="research-section" aria-labelledby="research-perspectives">
@@ -76,7 +76,7 @@ author_profile: true
       <div class="research-paper__main">
         <p class="research-paper__journal">《保险研究》 <span>·</span> 2026</p>
         <h3><a href="https://link.cnki.net/doi/10.13497/j.cnki.is.2026.05.003">商业健康保险的赔付率悖论与获得感悖论：兼论多层次医疗保障体系的制度衔接路径</a></h3>
-        <p class="research-paper__authors">与许闲合作</p>
+        <p class="research-paper__authors">与 <a href="https://xianxu-econ.com/">许闲</a> 合作</p>
         <a class="research-paper__link" href="https://link.cnki.net/doi/10.13497/j.cnki.is.2026.05.003">阅读论文 <span aria-hidden="true">↗</span></a>
       </div>
     </article>
