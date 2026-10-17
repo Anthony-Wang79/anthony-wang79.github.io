@@ -62,7 +62,7 @@ author_profile: true
         <p class="research-paper__authors">与 <a href="https://dh-huiding.github.io/">丁晖</a>、<a href="https://xianxu-econ.com/">许闲</a> 合作</p>
         <p class="research-paper__summary">本文以中国城市定制型医疗保险计划（惠民保）为研究背景，发现社商合作型保险保障的扩展可能挤出商业保险购买，并降低平均保障额度。</p>
         <a class="research-paper__link" href="https://doi.org/10.1016/j.jdeveco.2026.103780">阅读论文 <span aria-hidden="true">↗</span></a>
-        <p class="research-paper__features">相关报道：<a href="https://voxdev.org/topic/health/understanding-chinas-huge-expansion-health-insurance">VoxDev</a> 与 <a href="https://www.voxchina.org/show-3-459.html">VoxChina</a></p>
+        <p class="research-paper__features">相关报道：<a href="https://voxdev.org/topic/health/understanding-chinas-huge-expansion-health-insurance">VoxDev</a> 、 <a href="https://www.voxchina.org/show-3-459.html">VoxChina</a> 、 <a href="https://mp.weixin.qq.com/s/K_p4qKpXb7nPR2xrxiQ7vQ">香樟经济学术圈</a></p>
       </div>
 
 
@@ -78,6 +78,7 @@ author_profile: true
         <h3><a href="https://link.cnki.net/doi/10.13497/j.cnki.is.2026.05.003">商业健康保险的赔付率悖论与获得感悖论：兼论多层次医疗保障体系的制度衔接路径</a></h3>
         <p class="research-paper__authors">与 <a href="https://xianxu-econ.com/">许闲</a> 合作</p>
         <a class="research-paper__link" href="https://link.cnki.net/doi/10.13497/j.cnki.is.2026.05.003">阅读论文 <span aria-hidden="true">↗</span></a>
+        <p class="research-paper__features">相关报道：<a href="https://mp.weixin.qq.com/s/BhFWwG64ggvvv4E7PKYTnQ">慧保天下</a></p>
       </div>
     </article>
   </section>

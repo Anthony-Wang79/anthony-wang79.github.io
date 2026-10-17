@@ -17,7 +17,7 @@ redirect_from:
   <section class="research-hero bio-hero" aria-labelledby="bio-overview">
     <p class="research-eyebrow">Biography</p>
     <h2 id="bio-overview">Ph.D. Candidate in Economics at Fudan University</h2>
-    <p class="research-lede">My research lies at the intersection of insurance economics, health economics, and household finance.</p>
+    <p class="research-lede">My research lies at the intersection of insurance economics, health economics, and household finance. My work has appeared in leading international journals, including the <em>Journal of Development Economics</em>, and has also been featured on VoxDev and VoxChina.</p>
     <a class="bio-cv-link" href="/assets/CV.pdf">Download CV (PDF) <span aria-hidden="true">↗</span></a>
   </section>
 
