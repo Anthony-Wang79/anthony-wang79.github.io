@@ -35,7 +35,7 @@ redirect_from:
       <article class="bio-card bio-education-card">
         <span class="bio-card__meta">2019–2023</span>
         <h3>B.A. in Economics</h3>
-        <p>Fudan University · Graduation with the Highest Honor (<em>Summa Cum Laude<em>)</p>
+        <p>Fudan University · Graduation with the Highest Honor (Summa Cum Laude)</p>
       </article>
     </div>
   </section>
