@@ -91,7 +91,7 @@ author_profile: true
       <p>与 <a href="https://xianxu-econ.com/">许闲</a>、<a href="https://scholar.google.com/citations?user=1rCM1UIAAAAJ&amp;hl=zh-CN">林陈威</a> 合作</p>
     </article>
 
-    <div class="research-current">
+    <div class="research-current research-current--spaced">
       <div class="research-section__heading">
         <h2 id="work-in-progress">进展中论文</h2>
       </div>
