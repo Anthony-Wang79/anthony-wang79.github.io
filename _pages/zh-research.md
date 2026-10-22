@@ -81,16 +81,14 @@ author_profile: true
         <p class="research-paper__features">相关报道：<a href="https://mp.weixin.qq.com/s/BhFWwG64ggvvv4E7PKYTnQ">慧保天下</a></p>
       </div>
     </article>
-    <div class="research-section__heading">
+    <div class="research-section__heading research-working-papers__heading">
       <h2 id="working-papers">工作论文</h2>
     </div>
 
-    <article class="research-paper research-paper--single research-paper--secondary">
-      <div class="research-paper__main">
-        <p class="research-paper__journal">2026</p>
-        <h3>风险并行治理：技术创新的风险演进与中国治理经验</h3>
-        <p class="research-paper__authors">与 <a href="https://xianxu-econ.com/">许闲</a>、<a href="https://scholar.google.com/citations?user=1rCM1UIAAAAJ&amp;hl=zh-CN">林陈威</a> 合作</p>
-      </div>
+    <article class="research-current__item">
+      <p class="research-current__meta">2026</p>
+      <h3>风险并行治理：技术创新的风险演进与中国治理经验</h3>
+      <p>与 <a href="https://xianxu-econ.com/">许闲</a>、<a href="https://scholar.google.com/citations?user=1rCM1UIAAAAJ&amp;hl=zh-CN">林陈威</a> 合作</p>
     </article>
 
     <div class="research-current">
