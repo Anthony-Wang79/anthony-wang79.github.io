@@ -49,7 +49,7 @@ author_profile: true
     </div>
   </section>
 
-  <section class="research-section" aria-labelledby="selected-publication">
+  <section class="research-section" aria-label="学术研究">
     <div class="research-section__heading">
       <p class="research-eyebrow">学术研究</p>
       <h2 id="selected-publication">已发表论文</h2>
@@ -81,22 +81,32 @@ author_profile: true
         <p class="research-paper__features">相关报道：<a href="https://mp.weixin.qq.com/s/BhFWwG64ggvvv4E7PKYTnQ">慧保天下</a></p>
       </div>
     </article>
-  </section>
-
-  <section class="research-section research-current" aria-labelledby="work-in-progress">
     <div class="research-section__heading">
-      <p class="research-eyebrow">在研工作</p>
-      <h2 id="work-in-progress">进展中论文</h2>
+      <h2 id="working-papers">工作论文</h2>
     </div>
-    <div class="research-current__item">
-      <p class="research-current__meta">2026</p>
-      <h3>Exploring Health Improvement Incentives through Wellness-Linked Insurance Products</h3>
-      <p>与 <a href="https://www.uni-ulm.de/mawi/ivw/institut/team/achen/">陈安</a>、<a href="https://dh-huiding.github.io/">丁晖</a> 和 <a href="https://xianxu-econ.com/">许闲</a> 合作</p>
-    </div>
-    <div class="research-current__item">
-      <p class="research-current__meta">2026</p>
-      <h3>Public Disclosure of Health Information and Insurance Demand</h3>
-      <p>与 <a href="https://xianxu-econ.com/">许闲</a> 合作</p>
+
+    <article class="research-paper research-paper--single research-paper--secondary">
+      <div class="research-paper__main">
+        <p class="research-paper__journal">2026</p>
+        <h3>风险并行治理：技术创新的风险演进与中国治理经验</h3>
+        <p class="research-paper__authors">与 <a href="https://xianxu-econ.com/">许闲</a>、<a href="https://scholar.google.com/citations?user=1rCM1UIAAAAJ&amp;hl=zh-CN">林陈威</a> 合作</p>
+      </div>
+    </article>
+
+    <div class="research-current">
+      <div class="research-section__heading">
+        <h2 id="work-in-progress">进展中论文</h2>
+      </div>
+      <div class="research-current__item">
+        <p class="research-current__meta">2026</p>
+        <h3>Exploring Health Improvement Incentives through Wellness-Linked Insurance Products</h3>
+        <p>与 <a href="https://www.uni-ulm.de/mawi/ivw/institut/team/achen/">陈安</a>、<a href="https://dh-huiding.github.io/">丁晖</a> 和 <a href="https://xianxu-econ.com/">许闲</a> 合作</p>
+      </div>
+      <div class="research-current__item">
+        <p class="research-current__meta">2026</p>
+        <h3>Public Disclosure of Health Information and Insurance Demand</h3>
+        <p>与 <a href="https://xianxu-econ.com/">许闲</a> 合作</p>
+      </div>
     </div>
   </section>
 </div>
